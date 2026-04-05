@@ -6,7 +6,7 @@ include 'db.php';
 
 <head>
     <meta charset="UTF-8">
-    <title>Lib_Smart
+    <title>Library Management System
     </title>
     <link rel="stylesheet" href="css/styles.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
@@ -14,7 +14,7 @@ include 'db.php';
 </head>
 
 <body>
-    <h1>Welcome to Lib_Smart</h1>
+    <h1>Welcome to Library Management System</h1>
 
     <nav>
         <h3>📚</h3>
@@ -72,7 +72,7 @@ include 'db.php';
     <footer>
         <div class="footer-container">
             <div class="footer-section">
-                <h3>Lib_Smart</h3>
+                <h3>Library Management System</h3>
                 <p>Making knowledge accessible for everyone 📚</p>
             </div>
             <div class="footer-section">
@@ -91,7 +91,7 @@ include 'db.php';
             </div>
         </div>
         <div class="footer-bottom">
-            <p>© 2025 Lib_Smart | All Rights Reserved</p>
+            <p>© 2025 Library Management System | All Rights Reserved</p>
         </div>
     </footer>
 </body>
