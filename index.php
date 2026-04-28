@@ -6,7 +6,7 @@ include 'db.php';
 
 <head>
     <meta charset="UTF-8">
-    <title>Library Management System
+    <title>LibSmart
     </title>
     <link rel="stylesheet" href="css/styles.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
@@ -14,7 +14,7 @@ include 'db.php';
 </head>
 
 <body>
-    <h1>Welcome to Library Management System</h1>
+    <h1>Welcome to LibSmart</h1>
 
     <nav>
         <h3>📚</h3>
@@ -72,7 +72,7 @@ include 'db.php';
     <footer>
         <div class="footer-container">
             <div class="footer-section">
-                <h3>Library Management System</h3>
+                <h3>LibSmart</h3>
                 <p>Making knowledge accessible for everyone 📚</p>
             </div>
             <div class="footer-section">
@@ -86,12 +86,12 @@ include 'db.php';
             <div class="footer-section">
                 <h4>Contact</h4>
                 <p><i class="fas fa-map-marker-alt"></i> Pune, India</p>
-                <p><i class="fas fa-envelope"></i> support@library.com</p>
+                <p><i class="fas fa-envelope"></i> support@LibSmart.com</p>
                 <p><i class="fas fa-phone"></i> +91 0000000000</p>
             </div>
         </div>
         <div class="footer-bottom">
-            <p>© 2025 Library Management System | All Rights Reserved</p>
+            <p>© 2025 LibSmart| All Rights Reserved</p>
         </div>
     </footer>
 </body>
